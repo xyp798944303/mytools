@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [vue()],
   server: {
     host: '0.0.0.0',
-    port: 8085,
+    port: 8800,
     // proxy: {
     //   '/fm/': {
     //     target: 'http://192.168.31.54:3000/',
